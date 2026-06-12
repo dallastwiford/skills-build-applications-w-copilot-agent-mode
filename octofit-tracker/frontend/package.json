@@ -2,6 +2,7 @@
   "name": "octofit-tracker-frontend",
   "version": "1.0.0",
   "description": "Frontend for OctoFit Tracker application",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "dev": "react-scripts start",
